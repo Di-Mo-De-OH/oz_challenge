@@ -1,0 +1,32 @@
+*{
+    text-align: center;
+}
+html{
+    background-color: rgba(23,208, 30, 0.7);
+    font-size: 16px;
+}
+body{
+    width: 640px;
+    margin: auto;
+}
+h1{
+    font-size: 52px;
+}
+img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+p{
+    font-size: 20px;
+    
+}
+h2{
+    font-size: 42px;
+}
+li{
+    font-size: 20px;
+}
+p:hover{
+    color: green;   
+}
