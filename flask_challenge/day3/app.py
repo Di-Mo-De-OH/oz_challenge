@@ -39,7 +39,7 @@ def manage_boards():
 
 @app.route("/manage-users")# 실제 유저에게 보여주는 클라이언트 라우팅 서버주소는 /manage-users
 def manage_users():
-    return render_template("users.html")# templates속 users.html을 라우팅 시켜줌
+    return render_template("users.html")# templates속 users.html을 라우팅 시켜줌.
 
 
 if __name__ =="__main__":
